@@ -8,6 +8,7 @@
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <DebugType>portable</DebugType>
     <Optimize>false</Optimize>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <ModDir>$(MSBuildProjectDirectory)\mod</ModDir>
   </PropertyGroup>
 
@@ -65,4 +66,3 @@
   </Target>
 
 </Project>
-
